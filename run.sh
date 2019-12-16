@@ -1,0 +1,2 @@
+cd Documents/EclipseProject/Hybridframework/inetBankingv12
+mvn clean install
